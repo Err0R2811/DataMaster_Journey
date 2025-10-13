@@ -39,20 +39,4 @@ Kickstart the DataMaster Journey by setting up your environment, tools, and repo
 - Run basic data queries using Azure Data Studio.  
 - Begin “Data Cleaning 101” using Python + Pandas.
 
----
 
-## 🏅 XP Earned Today
-| Category | XP |
-|----------|----|
-| Tools & setup | 20 XP |
-| GitHub repo setup | 15 XP |
-| SSH & authentication | 15 XP |
-| Data Analysis intro video | 10 XP |
-| **Total** | **60 XP** |
-
----
-
-## 🧩 Unlocked Powers
-- ⚙️ **Techsmith** – Tools installed and configured  
-- 🌐 **Versioneer** – GitHub repo setup and synced  
-- 🪄 **Insight Seeker** – Basic understanding of data analysis concepts
