@@ -10,40 +10,23 @@ Learned how to load, explore, and inspect datasets using **Pandas**.
 
 ---
 
-## ✅ Main Quests Completed
-| Task | Description | Status | XP |
+## ✅ Main Tasks Completed
+| Task | Description | Status 
 |------|--------------|--------|----|
-| Install Pandas | `pip install pandas` | ✅ | 5 |
-| Import and verify Pandas | Checked version successfully | ✅ | 5 |
-| Load sample dataset | Loaded Iris dataset from seaborn repo | ✅ | 10 |
-| Explore dataset | Used `head()`, `info()`, `describe()` | ✅ | 10 |
-| Check columns & data types | Used `df.columns`, `df.dtypes`, `df.shape` | ✅ | 10 |
+| Install Pandas | `pip install pandas` | ✅ 
+| Import and verify Pandas | Checked version successfully | ✅ 
+| Load sample dataset | Loaded Iris dataset from seaborn repo | ✅ 
+| Explore dataset | Used `head()`, `info()`, `describe()` | ✅ 
+| Check columns & data types | Used `df.columns`, `df.dtypes`, `df.shape` | ✅ 
 
 ---
 
-## 🌟 Side Quests Completed
-| Task | Description | Status | XP |
+## 🌟 Side Tasks Completed
+| Task | Description | Status 
 |------|--------------|--------|----|
-| View first 10 rows | Used `df.head(10)` | ✅ | 5 |
-| Rename a column | Renamed `species → flower_type` | ✅ | 5 |
-| Save dataset locally | Saved as `iris_copy.csv` | ✅ | 5 |
-
----
-
-## 🏅 Badges Earned
-- 🐼 **Pandas Initiate** — You can now load and read any dataset  
-- 🔍 **Explorer’s Eye** — You’ve mastered basic data exploration  
-
----
-
-## ⚡ XP Summary
-| Category | XP |
-|-----------|----|
-| Main Quests | 40 |
-| Side Quests | 15 |
-| **Total XP** | **55 XP** |
-
-🧩 **Cumulative XP (so far)**: **~120 XP**
+| View first 10 rows | Used `df.head(10)` | ✅ 
+| Rename a column | Renamed `species → flower_type` | ✅ 
+| Save dataset locally | Saved as `iris_copy.csv` | ✅ 
 
 ---
 
