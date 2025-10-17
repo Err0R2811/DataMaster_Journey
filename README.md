@@ -47,7 +47,7 @@ This repository documents my daily missions, projects, and progress as I grow fr
 | 2 | Python & Pandas Basics | ✅ Done |
 | 3 | Exploratory Analysis Introduction | ✅ Done |
 | 4 | Data Cleaning & Visualization | ✅ Done |
-| 5 | Data Transformation & Advanced EDA | ⏳ Next |
+| 5 | Data Transformation & Advanced EDA |  ✅  Next |
 | ... | Continue till Day 20 | 🔜 In Progress |
 
 ---
