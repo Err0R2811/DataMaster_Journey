@@ -13,7 +13,7 @@ To transform, analyze, and visualize Netflix dataset insights using advanced pan
 | 🧹 Data Cleaning | Handled missing values, standardized formats, extracted `month_added` & `year_added` | ✅ |
 | 🧩 Data Transformation | Split multi-genre cells, exploded genre lists, grouped by genre and director | ✅ |
 | 📊 Visualization | Created barplots of **Top Directors per Genre** and a **Monthly-Yearly Heatmap** | ✅ |
-| 💾 Export | Saved plots to `/plots/` directory | ✅ |
+| 💾 Export | Saved plots to  directory | ✅ |
 
 ---
 
