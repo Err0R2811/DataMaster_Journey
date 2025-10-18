@@ -1,83 +1,85 @@
-# 🧠 DataMaster Journey
+# 🧠 DataMaster Journey  
+### A 20-Day Challenge to Master Data Analysis  
 
-Welcome to my **Data Analysis Learning Journey** 🚀 — a 20-day hands-on roadmap to master **data analysis, visualization, and insights** using **Python, Pandas, and Jupyter Notebooks**.  
-This repository documents my daily missions, projects, and progress as I grow from fundamentals to real-world data storytelling.
+Welcome to **DataMaster_Journey** — a personal, gamified learning adventure where I (Amit Virpara) learn **Data Analysis from scratch** using real datasets, daily quests, and hands-on projects.  
 
----
-
-## 📅 Journey Overview
-
-| Phase | Focus Area | Duration | Tools |
-|:------|:------------|:----------|:------|
-| Phase 1 | Python for Data Analysis | Day 1 - Day 3 | Python, Pandas, NumPy |
-| Phase 2 | Data Cleaning & EDA | Day 4 - Day 6 | Pandas, Matplotlib, Seaborn |
-| Phase 3 | Data Visualization Projects | Day 7 - Day 10 | Seaborn, Plotly, Power BI (Optional) |
-| Phase 4 | Applied Data Analysis Projects | Day 11 - Day 20 | Real-world Datasets, Insights, Reports |
+Each day focuses on practical data handling, cleaning, visualization, and storytelling — all documented step-by-step.  
 
 ---
 
+## 🧭 Progress Tracker  
+
+| Day | Topic | Description | Status |
+|-----|--------|--------------|--------|
+| 1 | Getting Started | Setup environment, GitHub repo, and tools | ✅ Completed |
+| 2 | Excel Foundations | Basics of data cleaning and formatting | ✅ Completed |
+| 3 | Python for Data Analysis | Data loading, Pandas, NumPy, and exploration | ✅ Completed |
+| 4 | Netflix Dataset – Intro | Data cleaning and basic EDA | ✅ Completed |
+| 5 | Netflix Dataset – Visualization | Insights using Matplotlib & Seaborn | ✅ Completed |
+| 6 | Country & Rating Insights | Global content trends and audience targeting | ✅ Completed |
+| 7 | Time-based Trends | Yearly growth and evolution analysis | 🔜 Upcoming |
+| 8–20 | Capstone Projects | Real-world case studies and mini projects | ⏳ In Progress |
 
 ---
 
-## 📘 Learning Goals
+## 📊 Progress Bar  
 
-- 🧹 Master **data cleaning & preprocessing**
-- 📊 Perform **Exploratory Data Analysis (EDA)**
-- 🎨 Create **informative and appealing visualizations**
-- 📈 Derive **real-world insights** from raw data
-- 🧠 Build **data storytelling & reporting** skills
+Progress: ██████░░░░░ 60% Complete
+
 
 ---
 
-## ⚙️ Tools & Environment
+## 🎯 Project Goals  
 
-- **Language:** Python 3.x  
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
-- **IDE:** PyCharm / Jupyter Notebook  
-- **Version Control:** Git + GitHub  
-- **OS:** Linux (Ubuntu)
-
----
-
-## 📆 Daily Progress Tracker
-
-| Day | Focus | Status |
-|:----|:------|:--------|
-| 1 | Environment Setup + GitHub | ✅ Done |
-| 2 | Python & Pandas Basics | ✅ Done |
-| 3 | Exploratory Analysis Introduction | ✅ Done |
-| 4 | Data Cleaning & Visualization | ✅ Done |
-| 5 | Data Transformation & Advanced EDA |  ✅  Next |
-| ... | Continue till Day 20 | 🔜 In Progress |
+- Master **Data Analysis** within 20 days  
+- Build strong foundations in **Python, Pandas, Matplotlib, Seaborn, and Plotly**  
+- Learn how to clean, visualize, and interpret real-world data  
+- Maintain a daily learning streak with documented progress  
 
 ---
 
-## 🌟 Highlights
+## 🗂️ Repository Structure  
 
-- Created automated visualizations from real datasets  
-- Cleaned, formatted, and explored multi-feature data  
-- Maintained version-controlled daily logs for reproducibility  
-- Built a strong foundation in Python-based data analysis
+DataMaster_Journey/
+│
+├── day1_setup.md
+├── day2_excel_basics.md
+├── day3_python_pandas_intro.md
+├── day4_netflix_data_cleaning.md
+├── day5_visualization_trends.md
+├── day6_country_rating_analysis.md
+│
+├── datasets/
+│ └── netflix_titles.csv
+│
+├── outputs/
+│ ├── plots/
+│ ├── heatmaps/
+│ ├── cleaned_data.csv
+│
+└── README.md
 
----
-
-## 📚 References
-
-- [Python Data Science Handbook by Jake VanderPlas](https://github.com/jakevdp/PythonDataScienceHandbook)
-- [Kaggle Datasets](https://www.kaggle.com/datasets)
-- [Pandas Documentation](https://pandas.pydata.org/docs/)
-- [Matplotlib Docs](https://matplotlib.org/stable/contents.html)
-
----
-
-## ✨ Author
-
-**Amit Virpara**  
-📍 Data Science Explorer | 💻 Python Developer | ☁️ Aspiring Azure Expert  
-🔗 [GitHub Profile](https://github.com/Err0R2811)
 
 ---
 
-> “Every dataset hides a story — I’m here to uncover it.” 🌱
+## 🏆 Achievements & Badges  
 
+| Badge | Description |
+|--------|-------------|
+| 🧰 **Setup Wizard** | Completed environment setup and GitHub integration |
+| 📊 **Data Wrangler** | Cleaned and prepared Netflix dataset |
+| 🎨 **Visualization Guru** | Created meaningful data visualizations |
+| 🌎 **Global Analyst** | Analyzed country-wise and rating trends |
+| 🔥 **Streak Keeper** | Completed 6 consecutive days of data exploration |
+
+---
+
+## 📈 Next Step: Day 7  
+**Theme:** *“Netflix Through the Years”*  
+Focus: Analyze how Netflix content evolved annually — number of releases, genres, and growth trends.  
+
+---
+
+**Author:** [Amit Virpara](https://github.com/Err0R2811)  
+**Repository:** [DataMaster_Journey](https://github.com/Err0R2811/DataMaster_Journey)
 
