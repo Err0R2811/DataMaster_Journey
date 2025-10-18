@@ -42,22 +42,29 @@ Progress: ██████░░░░░ 60% Complete
 
 DataMaster_Journey/
 │
+
 ├── day1_setup.md
+
 ├── day2_excel_basics.md
+
 ├── day3_python_pandas_intro.md
+
 ├── day4_netflix_data_cleaning.md
+
 ├── day5_visualization_trends.md
+
 ├── day6_country_rating_analysis.md
+
 │
+
 ├── datasets/
+
 │ └── netflix_titles.csv
+
 │
-├── outputs/
-│ ├── plots/
-│ ├── heatmaps/
-│ ├── cleaned_data.csv
-│
+
 └── README.md
+
 
 
 ---
