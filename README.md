@@ -1,120 +1,153 @@
-# 📊 DataMaster Journey  
-### 🚀 A Complete Hands-on Data Analytics Project Series  
+# 📊 DataMaster Journey
 
-Welcome to the **DataMaster Journey** — a structured, day-by-day exploration of data analytics using real-world datasets.  
-This repository documents Amit Virpara’s complete data analytics learning path through practical Netflix data analysis.
+### 🚀 A Complete Hands-on Data Analytics Project Series
 
----
-
-## 📚 Project Overview  
-
-**Dataset Used:** [Netflix Titles Dataset](https://www.kaggle.com/shivamb/netflix-shows)  
-**Tools & Libraries:**  
-- Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)  
-- Jupyter Notebook / VS Code  
-- Git & GitHub for version control  
+Welcome to the **DataMaster Journey** — a structured, day-by-day exploration of data analytics using real-world datasets.
+This repository documents Amit Virpara’s complete data analytics learning path through practical Netflix and business data analysis.
 
 ---
 
-## 🗓️ Daily Progress  
+## 📚 Project Overview
 
-### 🧠 **Day 1:** Data Loading and Initial Exploration  
-- Imported dataset and performed first-level inspection.  
-- Checked for missing values and duplicates.  
-- Identified key columns and their data types.
+**Datasets Used:**
 
-### 🧹 **Day 2:** Data Cleaning and Preprocessing  
-- Cleaned missing values in columns (`country`, `date_added`, `rating`).  
-- Converted `date_added` to datetime format.  
-- Handled inconsistencies in categorical data.  
-- Exported a cleaned version of the dataset.
+* [Netflix Titles Dataset](https://www.kaggle.com/shivamb/netflix-shows)
+* [Supermarket Sales Dataset](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales)
 
-### 📊 **Day 3:** Exploratory Data Analysis — Overview  
-- Analyzed content type distribution (Movies vs TV Shows).  
-- Counted movies and shows per release year.  
-- Visualized using bar and pie charts.  
+**Tools & Libraries:**
 
-### 🎬 **Day 4:** Genre and Duration Insights  
-- Explored genres and duration data.  
-- Analyzed the most common genres for both Movies and TV Shows.  
-- Cleaned and standardized `duration` column.  
-- Visualized duration distribution and top genres.  
-
-### 🎥 **Day 5:** Director and Month-wise Insights  
-- Analyzed top directors and their genre trends.  
-- Created a heatmap showing content additions by month and year.  
-- Gained insight into release seasonality and production trends.
-
-### 🌍 **Day 6:** Country-wise and Rating-based Analysis  
-- Identified top countries producing Netflix content.  
-- Created a world heatmap of content distribution.  
-- Explored rating distribution across content types.  
-- Found that TV-MA and TV-14 dominate Netflix’s catalog.
-
-### 📆 **Day 7:** Yearly and Monthly Trends Dashboard  
-- Extracted and visualized yearly and monthly content additions.  
-- Compared growth patterns of Movies vs TV Shows.  
-- Built a combined dashboard showing total yearly and monthly trends.
-
-### 🌎 **Day 8:** Region-wise Distribution & Visualization  
-- Grouped countries into continents (regions).  
-- Analyzed regional content contributions.  
-- Compared Movies vs TV Shows percentage per region.  
-- Visualized top 5 countries with highest content production.
-
-### 📈 **Day 9:** Growth & Genre Trends Over Time  
-- Analyzed yearly growth patterns of Netflix content.  
-- Studied how genre preferences evolved across time.  
-- Identified top trending genres like Drama and Documentaries.  
-- Visualized long-term content evolution using line and area charts.  
+* Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
+* Jupyter Notebook / VS Code
+* Git & GitHub for version control
 
 ---
 
-## 📦 Output Summary  
+## 🗓️ Daily Progress
 
-| Day | Focus Area | Key Visuals |
-|-----|-------------|-------------|
-| 1 | Data Loading | Basic dataset overview |
-| 2 | Cleaning | Cleaned dataset export |
-| 3 | EDA Overview | Movies vs Shows bar chart |
-| 4 | Genre Analysis | Genre distribution plot |
-| 5 | Directors & Month | Heatmap, Top Directors |
-| 6 | Country & Ratings | World map, Rating bar chart |
-| 7 | Trends Dashboard | Yearly & monthly trend plots |
-| 8 | Regional Analysis | Continent-wise visualization |
-| 9 | Growth & Genre Trends | Trend lines, Area charts |
+### 🧠 **Day 1:** Data Loading and Initial Exploration
+
+* Imported dataset and performed first-level inspection.
+* Checked for missing values and duplicates.
+* Identified key columns and their data types.
+
+### 🧹 **Day 2:** Data Cleaning and Preprocessing
+
+* Cleaned missing values in columns (`country`, `date_added`, `rating`).
+* Converted `date_added` to datetime format.
+* Handled inconsistencies in categorical data.
+* Exported a cleaned version of the dataset.
+
+### 📊 **Day 3:** Exploratory Data Analysis — Overview
+
+* Analyzed content type distribution (Movies vs TV Shows).
+* Counted movies and shows per release year.
+* Visualized using bar and pie charts.
+
+### 🎬 **Day 4:** Genre and Duration Insights
+
+* Explored genres and duration data.
+* Analyzed the most common genres for both Movies and TV Shows.
+* Cleaned and standardized `duration` column.
+* Visualized duration distribution and top genres.
+
+### 🎥 **Day 5:** Director and Month-wise Insights
+
+* Analyzed top directors and their genre trends.
+* Created a heatmap showing content additions by month and year.
+* Gained insight into release seasonality and production trends.
+
+### 🌍 **Day 6:** Country-wise and Rating-based Analysis
+
+* Identified top countries producing Netflix content.
+* Created a world heatmap of content distribution.
+* Explored rating distribution across content types.
+* Found that TV-MA and TV-14 dominate Netflix’s catalog.
+
+### 📆 **Day 7:** Yearly and Monthly Trends Dashboard
+
+* Extracted and visualized yearly and monthly content additions.
+* Compared growth patterns of Movies vs TV Shows.
+* Built a combined dashboard showing total yearly and monthly trends.
+
+### 🌎 **Day 8:** Region-wise Distribution & Visualization
+
+* Grouped countries into continents (regions).
+* Analyzed regional content contributions.
+* Compared Movies vs TV Shows percentage per region.
+* Visualized top 5 countries with highest content production.
+
+### 📈 **Day 9:** Growth & Genre Trends Over Time
+
+* Analyzed yearly growth patterns of Netflix content.
+* Studied how genre preferences evolved across time.
+* Identified top trending genres like Drama and Documentaries.
+* Visualized long-term content evolution using line and area charts.
 
 ---
 
-## 🧠 Skills Practiced  
+### 🏪 **Day 10:** Supermarket Sales Data Exploration
 
-- Data Cleaning and Preprocessing  
-- Exploratory Data Analysis (EDA)  
-- Feature Engineering  
-- Visualization with Matplotlib, Seaborn & Plotly  
-- Trend and Correlation Analysis  
-- Insight Communication via Markdown Reports  
-- Git Version Control & Documentation  
+* Introduced a **new business dataset** for diversification of analysis.
+* Performed initial data loading, cleaning, and inspection.
+* Explored categorical columns like *City, Gender, and Product Line*.
+* Created countplots for transactions per branch and customer ratings.
+* Analyzed **average total sales by gender** and **branch-wise income**.
+* Discovered top-rated product lines and profit-leading branches.
+* Built visual insights using `matplotlib` and `seaborn`.
 
----
+**Key Findings:**
 
-## 📅 Upcoming Days  
-
-| Day | Focus Area |
-|-----|-------------|
-| 10 | Text & Sentiment Analysis (Title/Description) |
-| 11 | Recommendation System (Basic + Hybrid) |
-| 12 | Dashboard Integration & Final Insights |
+* 💰 Branch C recorded the highest total sales.
+* 👩 Female customers spent more on average.
+* ⭐ “Food and Beverages” emerged as the top-rated product line.
+* 🏙️ Yangon city showed strong sales consistency.
 
 ---
 
-## 👨‍💻 Author  
-**Amit Virpara**  
+## 📦 Output Summary
+
+| Day | Focus Area                        | Key Visuals                  |
+| --- | --------------------------------- | ---------------------------- |
+| 1   | Data Loading                      | Basic dataset overview       |
+| 2   | Cleaning                          | Cleaned dataset export       |
+| 3   | EDA Overview                      | Movies vs Shows bar chart    |
+| 4   | Genre Analysis                    | Genre distribution plot      |
+| 5   | Directors & Month                 | Heatmap, Top Directors       |
+| 6   | Country & Ratings                 | World map, Rating bar chart  |
+| 7   | Trends Dashboard                  | Yearly & monthly trend plots |
+| 8   | Regional Analysis                 | Continent-wise visualization |
+| 9   | Growth & Genre Trends             | Trend lines, Area charts     |
+| 10  | Business Data (Supermarket Sales) | Branch & Gender Sales Charts |
+
+---
+
+## 🧠 Skills Practiced
+
+* Data Cleaning and Preprocessing
+* Exploratory Data Analysis (EDA)
+* Feature Engineering
+* Business Data Interpretation
+* Visualization with Matplotlib, Seaborn & Plotly
+* Insight Communication via Markdown Reports
+* Git Version Control & Documentation
+
+---
+
+## 📅 Upcoming Days
+
+| Day | Focus Area                                  |
+| --- | ------------------------------------------- |
+| 11  | Statistical Analysis & Correlation Heatmaps |
+| 12  | Sales Forecasting (Time-based)              |
+| 13  | Dashboard Integration & Final Summary       |
+
+---
+
+## 👨‍💻 Author
+
+**Amit Virpara**
 📂 [GitHub Repository](https://github.com/Err0R2811/DataMaster_Journey)
 
 ---
 
 ⭐ **If you find this repository helpful, don’t forget to star it!**
-
-
-
