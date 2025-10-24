@@ -3,17 +3,13 @@
 ### 🚀 A Complete Hands-on Data Analytics Project Series
 
 Welcome to the **DataMaster Journey** — a structured, day-by-day exploration of data analytics using real-world datasets.
-This repository documents Amit Virpara’s complete data analytics learning path through practical Netflix and business data analysis.
+This repository documents Amit Virpara’s complete data analytics learning path through practical Netflix data analysis.
 
 ---
 
 ## 📚 Project Overview
 
-**Datasets Used:**
-
-* [Netflix Titles Dataset](https://www.kaggle.com/shivamb/netflix-shows)
-* [Supermarket Sales Dataset](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales)
-
+**Dataset Used:** [Netflix Titles Dataset](https://www.kaggle.com/shivamb/netflix-shows)
 **Tools & Libraries:**
 
 * Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
@@ -83,41 +79,29 @@ This repository documents Amit Virpara’s complete data analytics learning path
 * Identified top trending genres like Drama and Documentaries.
 * Visualized long-term content evolution using line and area charts.
 
----
+### 🧮 **Day 11:** Statistical Analysis & Correlation Heatmaps
 
-### 🏪 **Day 10:** Supermarket Sales Data Exploration
-
-* Introduced a **new business dataset** for diversification of analysis.
-* Performed initial data loading, cleaning, and inspection.
-* Explored categorical columns like *City, Gender, and Product Line*.
-* Created countplots for transactions per branch and customer ratings.
-* Analyzed **average total sales by gender** and **branch-wise income**.
-* Discovered top-rated product lines and profit-leading branches.
-* Built visual insights using `matplotlib` and `seaborn`.
-
-**Key Findings:**
-
-* 💰 Branch C recorded the highest total sales.
-* 👩 Female customers spent more on average.
-* ⭐ “Food and Beverages” emerged as the top-rated product line.
-* 🏙️ Yangon city showed strong sales consistency.
+* Explored relationships between numerical features like Total, Tax, Quantity, Rating, and Gross Income.
+* Computed correlation matrix and visualized with Seaborn heatmap.
+* Interpreted key correlations (e.g., Total ↔ Gross Income ≈ 1.0).
+* Created optional pairplots to explore variable interactions visually.
 
 ---
 
 ## 📦 Output Summary
 
-| Day | Focus Area                        | Key Visuals                  |
-| --- | --------------------------------- | ---------------------------- |
-| 1   | Data Loading                      | Basic dataset overview       |
-| 2   | Cleaning                          | Cleaned dataset export       |
-| 3   | EDA Overview                      | Movies vs Shows bar chart    |
-| 4   | Genre Analysis                    | Genre distribution plot      |
-| 5   | Directors & Month                 | Heatmap, Top Directors       |
-| 6   | Country & Ratings                 | World map, Rating bar chart  |
-| 7   | Trends Dashboard                  | Yearly & monthly trend plots |
-| 8   | Regional Analysis                 | Continent-wise visualization |
-| 9   | Growth & Genre Trends             | Trend lines, Area charts     |
-| 10  | Business Data (Supermarket Sales) | Branch & Gender Sales Charts |
+| Day | Focus Area            | Key Visuals                   |
+| --- | --------------------- | ----------------------------- |
+| 1   | Data Loading          | Basic dataset overview        |
+| 2   | Cleaning              | Cleaned dataset export        |
+| 3   | EDA Overview          | Movies vs Shows bar chart     |
+| 4   | Genre Analysis        | Genre distribution plot       |
+| 5   | Directors & Month     | Heatmap, Top Directors        |
+| 6   | Country & Ratings     | World map, Rating bar chart   |
+| 7   | Trends Dashboard      | Yearly & monthly trend plots  |
+| 8   | Regional Analysis     | Continent-wise visualization  |
+| 9   | Growth & Genre Trends | Trend lines, Area charts      |
+| 11  | Statistical Analysis  | Correlation heatmap, Pairplot |
 
 ---
 
@@ -125,9 +109,9 @@ This repository documents Amit Virpara’s complete data analytics learning path
 
 * Data Cleaning and Preprocessing
 * Exploratory Data Analysis (EDA)
-* Feature Engineering
-* Business Data Interpretation
+* Correlation and Statistical Analysis
 * Visualization with Matplotlib, Seaborn & Plotly
+* Trend and Relationship Identification
 * Insight Communication via Markdown Reports
 * Git Version Control & Documentation
 
@@ -135,11 +119,11 @@ This repository documents Amit Virpara’s complete data analytics learning path
 
 ## 📅 Upcoming Days
 
-| Day | Focus Area                                  |
-| --- | ------------------------------------------- |
-| 11  | Statistical Analysis & Correlation Heatmaps |
-| 12  | Sales Forecasting (Time-based)              |
-| 13  | Dashboard Integration & Final Summary       |
+| Day | Focus Area                             |
+| --- | -------------------------------------- |
+| 12  | Sentiment & Text Analysis              |
+| 13  | Recommendation System (Basic + Hybrid) |
+| 14  | Dashboard Integration & Final Insights |
 
 ---
 
