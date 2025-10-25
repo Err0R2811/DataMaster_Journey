@@ -1,137 +1,103 @@
-# 📊 DataMaster Journey
-
-### 🚀 A Complete Hands-on Data Analytics Project Series
-
-Welcome to the **DataMaster Journey** — a structured, day-by-day exploration of data analytics using real-world datasets.
-This repository documents Amit Virpara’s complete data analytics learning path through practical Netflix data analysis.
-
----
-
-## 📚 Project Overview
-
-**Dataset Used:** [Netflix Titles Dataset](https://www.kaggle.com/shivamb/netflix-shows)
-**Tools & Libraries:**
-
-* Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
-* Jupyter Notebook / VS Code
-* Git & GitHub for version control
-
----
-
-## 🗓️ Daily Progress
-
-### 🧠 **Day 1:** Data Loading and Initial Exploration
-
-* Imported dataset and performed first-level inspection.
-* Checked for missing values and duplicates.
-* Identified key columns and their data types.
-
-### 🧹 **Day 2:** Data Cleaning and Preprocessing
-
-* Cleaned missing values in columns (`country`, `date_added`, `rating`).
-* Converted `date_added` to datetime format.
-* Handled inconsistencies in categorical data.
-* Exported a cleaned version of the dataset.
-
-### 📊 **Day 3:** Exploratory Data Analysis — Overview
-
-* Analyzed content type distribution (Movies vs TV Shows).
-* Counted movies and shows per release year.
-* Visualized using bar and pie charts.
-
-### 🎬 **Day 4:** Genre and Duration Insights
-
-* Explored genres and duration data.
-* Analyzed the most common genres for both Movies and TV Shows.
-* Cleaned and standardized `duration` column.
-* Visualized duration distribution and top genres.
-
-### 🎥 **Day 5:** Director and Month-wise Insights
-
-* Analyzed top directors and their genre trends.
-* Created a heatmap showing content additions by month and year.
-* Gained insight into release seasonality and production trends.
-
-### 🌍 **Day 6:** Country-wise and Rating-based Analysis
-
-* Identified top countries producing Netflix content.
-* Created a world heatmap of content distribution.
-* Explored rating distribution across content types.
-* Found that TV-MA and TV-14 dominate Netflix’s catalog.
-
-### 📆 **Day 7:** Yearly and Monthly Trends Dashboard
-
-* Extracted and visualized yearly and monthly content additions.
-* Compared growth patterns of Movies vs TV Shows.
-* Built a combined dashboard showing total yearly and monthly trends.
-
-### 🌎 **Day 8:** Region-wise Distribution & Visualization
-
-* Grouped countries into continents (regions).
-* Analyzed regional content contributions.
-* Compared Movies vs TV Shows percentage per region.
-* Visualized top 5 countries with highest content production.
-
-### 📈 **Day 9:** Growth & Genre Trends Over Time
-
-* Analyzed yearly growth patterns of Netflix content.
-* Studied how genre preferences evolved across time.
-* Identified top trending genres like Drama and Documentaries.
-* Visualized long-term content evolution using line and area charts.
-
-### 🧮 **Day 11:** Statistical Analysis & Correlation Heatmaps
-
-* Explored relationships between numerical features like Total, Tax, Quantity, Rating, and Gross Income.
-* Computed correlation matrix and visualized with Seaborn heatmap.
-* Interpreted key correlations (e.g., Total ↔ Gross Income ≈ 1.0).
-* Created optional pairplots to explore variable interactions visually.
-
----
-
-## 📦 Output Summary
-
-| Day | Focus Area            | Key Visuals                   |
-| --- | --------------------- | ----------------------------- |
-| 1   | Data Loading          | Basic dataset overview        |
-| 2   | Cleaning              | Cleaned dataset export        |
-| 3   | EDA Overview          | Movies vs Shows bar chart     |
-| 4   | Genre Analysis        | Genre distribution plot       |
-| 5   | Directors & Month     | Heatmap, Top Directors        |
-| 6   | Country & Ratings     | World map, Rating bar chart   |
-| 7   | Trends Dashboard      | Yearly & monthly trend plots  |
-| 8   | Regional Analysis     | Continent-wise visualization  |
-| 9   | Growth & Genre Trends | Trend lines, Area charts      |
-| 11  | Statistical Analysis  | Correlation heatmap, Pairplot |
-
----
-
-## 🧠 Skills Practiced
-
-* Data Cleaning and Preprocessing
-* Exploratory Data Analysis (EDA)
-* Correlation and Statistical Analysis
-* Visualization with Matplotlib, Seaborn & Plotly
-* Trend and Relationship Identification
-* Insight Communication via Markdown Reports
-* Git Version Control & Documentation
-
----
-
-## 📅 Upcoming Days
-
-| Day | Focus Area                             |
-| --- | -------------------------------------- |
-| 12  | Sentiment & Text Analysis              |
-| 13  | Recommendation System (Basic + Hybrid) |
-| 14  | Dashboard Integration & Final Insights |
-
----
+# 📊 Data Analytics Learning Journey
 
 ## 👨‍💻 Author
-
 **Amit Virpara**
-📂 [GitHub Repository](https://github.com/Err0R2811/DataMaster_Journey)
 
 ---
 
-⭐ **If you find this repository helpful, don’t forget to star it!**
+## 📅 Overview
+This repository documents my **daily learning progress** in Data Analytics — combining **Python, Pandas, NumPy, visualization, and real-world datasets** to develop analytical and storytelling skills.
+
+Each day focuses on **a specific dataset, concept, or analytical technique**, with code, reports, and insights included.
+
+---
+
+## 📘 Learning Timeline
+
+| Day | Topic | Key Focus | Status |
+|-----|--------|------------|--------|
+| **Day 1** | Introduction to Data Analytics | Python setup, Pandas & NumPy basics | ✅ Completed |
+| **Day 2** | Data Cleaning Fundamentals | Handling missing values, duplicates, outliers | ✅ Completed |
+| **Day 3** | Data Visualization – Basics | Matplotlib & Seaborn visualizations | ✅ Completed |
+| **Day 4** | Advanced Visualization | Pairplots, heatmaps, histograms | ✅ Completed |
+| **Day 5** | Exploratory Data Analysis (EDA) | Full EDA workflow on sample dataset | ✅ Completed |
+| **Day 6** | Real-World Dataset: IPL Analysis | Player performance & team comparison | ✅ Completed |
+| **Day 7** | Netflix Dataset Analysis | Content trends, ratings, and country insights | ✅ Completed |
+| **Day 8** | Amazon Sales Data | Order trends, revenue growth, and profit insights | ✅ Completed |
+| **Day 9** | HR Analytics | Employee retention, satisfaction, and churn prediction | ✅ Completed |
+| **Day 10** | Bank Loan Data | Credit risk analysis and loan approval trends | ✅ Completed |
+| **Day 11** | Retail Store Sales Data | Sales forecasting, seasonality, and store performance | ✅ Completed |
+| **Day 12** | Customer Behavior Analysis (Supermarket) | Analyzing consumer spending, product preferences, and segmentation | ✅ Completed |
+| **Day 13** | (Upcoming) Advanced Segmentation & RFM Analysis | RFM modeling and customer value grouping | ⏳ Pending |
+
+---
+
+## 🧠 Skills Strengthened So Far
+- Data Cleaning & Preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Visualization (Matplotlib, Seaborn)  
+- Feature Encoding & Correlation Analysis  
+- Clustering (K-Means) and Pattern Recognition  
+- Real-world Dataset Handling & Reporting  
+
+---
+
+## 🧰 Tools & Technologies
+- **Languages:** Python  
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+- **Environment:** Jupyter Notebook / VS Code  
+- **Version Control:** Git & GitHub  
+
+---
+
+## 📂 Repository Structure
+
+📁 Data-Analytics-Journey/
+│
+├── 📄 README.md # Main progress tracker (this file)
+├── 📁 Day 01 - Introduction/
+├── 📁 Day 02 - Data Cleaning/
+├── 📁 Day 03 - Visualization Basics/
+├── 📁 Day 04 - Advanced Visualization/
+├── 📁 Day 05 - EDA Workflow/
+├── 📁 Day 06 - Netflix Analysis/
+├── 📁 Day 07 - Netflix Analysis/
+├── 📁 Day 08 - Netflix Analysis/
+├── 📁 Day 09 - Netflix Analysis/
+├── 📁 Day 10 - Supermarket Sales Analysis/
+├── 📁 Day 11 - Retail Sales Analysis/
+├── 📁 Day 12 - Customer Behavior Analysis/
+└── 📁 Day 13 - (Upcoming)
+
+
+Each folder includes:
+- `README.md` (detailed explanation)
+- Jupyter Notebook or `.py` file  
+- Dataset (if applicable)
+- Output visualizations / reports  
+
+---
+
+## 🏁 Current Progress
+✅ **12/30 Days Completed**  
+📊 **Focus Area:** Business & Retail Analytics  
+🎯 **Next Goal:** Perform **Advanced RFM Segmentation** and predict **Customer Lifetime Value**
+
+---
+
+## 💬 Notes
+- All datasets are either open-source or simulated for educational use.  
+- Daily summaries and insights are added to maintain clarity of learning progress.  
+- Visualizations and interpretations are emphasized over modeling in the initial phase.  
+
+---
+
+## 🚀 Upcoming Plans
+- Day 13 → **Advanced Customer Segmentation (RFM + Clustering)**  
+- Day 14 → **Predictive Analytics (Regression/Classification)**  
+- Day 15 → **Dashboard Creation using Power BI or Plotly Dash**
+
+---
+
+**Last Updated:** *21st October 2025*  
+**Maintained by:** *Amit Virpara*
