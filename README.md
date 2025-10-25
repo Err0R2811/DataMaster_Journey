@@ -54,19 +54,33 @@ Each day focuses on **a specific dataset, concept, or analytical technique**, wi
 
 📁 Data-Analytics-Journey/
 │
+
 ├── 📄 README.md # Main progress tracker (this file)
+
 ├── 📁 Day 01 - Introduction/
+
 ├── 📁 Day 02 - Data Cleaning/
+
 ├── 📁 Day 03 - Visualization Basics/
+
 ├── 📁 Day 04 - Advanced Visualization/
+
 ├── 📁 Day 05 - EDA Workflow/
+
 ├── 📁 Day 06 - Netflix Analysis/
+
 ├── 📁 Day 07 - Netflix Analysis/
+
 ├── 📁 Day 08 - Netflix Analysis/
+
 ├── 📁 Day 09 - Netflix Analysis/
+
 ├── 📁 Day 10 - Supermarket Sales Analysis/
+
 ├── 📁 Day 11 - Retail Sales Analysis/
+
 ├── 📁 Day 12 - Customer Behavior Analysis/
+
 └── 📁 Day 13 - (Upcoming)
 
 
